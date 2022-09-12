@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anmolvernekar
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on internships
+- 👀 I’m interested in webdevelopment,Programming(DSA).
+- 🌱 I’m currently learning full stack web development.
+- 💞️ I’m looking to collaborate on internships and full time opportunities.
 - 📫 How to reach me anmolvernekar73@gmail.com
 
 <!---
