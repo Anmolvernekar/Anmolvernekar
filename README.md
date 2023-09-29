@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anmolvernekar
-- 👀 I’m interested in webdevelopment,Programming(DSA).
-- 🌱 I’m currently learning full stack web development.
+- 👀 I’m interested in DevOps, cloud computing.
+- 🌱 I’m currently learning devOps cloud practices.
 - 💞️ I’m looking to collaborate on internships and full time opportunities.
 - 📫 How to reach me anmolvernekar73@gmail.com
 
